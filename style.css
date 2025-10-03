@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(247, 241, 235);
+    font-family: Montserrat;
+}
+
+.avatar{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+}
+
+.header{
+    text-align: center;
+}
+
+.header_title{
+font-size: 32px;
+}
+
+.header-subtitle{
+font-size: 20px;
+color: rgb(111, 93, 214);
+font-weight: 600;
+}
+
+main{
+    border: 1px solid darkgray;
+    border-radius: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.skills ol{
+    list-style: none;
+}
+
+.separator{
+    width: 50%;
+    height: 3px;
+    background-color: rgb(190, 233, 235);
+}
+
+.video{
+    width: 640px;
+    height: 360px;
+}
+
+.ed-table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.ed-table th,
+.ed-table td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.quote{
+    font-size: 32px;
+}
+
+.form{
+    width:600px;
+    margin: 0 auto;
+}
+.form-control{
+    width: 100%;
+}
+
+.form-submit{
+    display: block;
+    margin: 0 auto;
+}
+
+.textarea-control{
+    width: 70%;
+}
+
+footer{
+    height: 100px;
+    text-align: center;
+    background-color: white;
+}
+
+.contact-link{
+    text-decoration: none;
+    color: midnightblue;
+}
